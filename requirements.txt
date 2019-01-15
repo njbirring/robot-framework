@@ -1,4 +1,5 @@
 robotframework
 robotframework-selenium2library
-export PATH=/usr/local/bin/:$PATH
+robot --version
+pybot --version
 
