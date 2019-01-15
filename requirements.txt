@@ -1,5 +1,3 @@
 robotframework
 robotframework-selenium2library
-robot --version
-pybot --version
 
