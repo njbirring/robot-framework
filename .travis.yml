@@ -14,4 +14,4 @@ env:
   global:
     - export PATH=/usr/local/bin/:$PATH
 
-script: pybot SearchGoogle.robot
+script: pabot SearchGoogle.robot
