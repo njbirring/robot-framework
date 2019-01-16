@@ -3,8 +3,9 @@ sudo: false
 before_install:
 # install dependencies
   - pip install robotframework
-  - robot --version
   - pip install robotframework-selenium2library
+  - pybot --version
+
 install: "pip install -r requirements.txt"
 language: python
 python:
