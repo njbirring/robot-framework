@@ -11,6 +11,5 @@ Test Teardown  Common.Stop test
 
 *** Test Cases ***
 Open Google
-    [Tags]  Smoke
     Google.Search for RF
 
