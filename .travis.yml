@@ -16,4 +16,4 @@ env:
     - PATH =  /home/travis/virtualenv/python2.7.14/lib/python2.7/
     - export PATH=/usr/local/bin/:$PATH
 
-script: pabot test_google.robot
+script: pabot SearchGoogle.robot
